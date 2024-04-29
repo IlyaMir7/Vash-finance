@@ -1,0 +1,253 @@
+.topheader
+{
+   width: 100%;
+   min-width: 1200px;
+   height: 50px;
+   background-color: rgb(0, 189, 0);
+   z-index: 99999;
+   font-size: 30px;
+   color: white; 
+   text-align: center;
+   line-height: 50px;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-weight: bold;
+   white-space: nowrap;
+}
+.bd
+{
+    color: white;
+}
+.text
+{
+   text-align: center;
+   line-height: 50px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+   font-size: 25px;
+   
+   margin-top: 0.5em; 
+   margin-bottom: 1em; 
+}
+.ph1,.ph2, .ph3, .ph4
+{
+   padding-left: 80px;
+   
+}
+
+.tit1
+{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+
+}
+.st1 
+{
+   font-size: 50px;
+   text-align: center;
+   padding-left: 750px;
+   
+}
+.st2 
+{
+   font-size: 50px;
+   text-align: center;
+   padding-left: 750px;
+}
+.st3
+{
+   font-size: 50px;
+   text-align: center;
+   padding-left: 750px;
+}
+.tit2
+{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+
+}
+
+
+
+.tit3
+{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+}
+.tit4
+{
+   text-align: center;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 50px;
+   margin-top: 15px;
+}
+.vid1
+{
+   margin-left: 15px;
+   margin-top: 30px;
+}
+.vid2
+{
+   margin-left: 700px;
+   margin-top: 5px;
+}
+.vid3
+{
+   margin-left: 15px;
+   margin-top: 5px;
+}
+.vid4
+{
+   margin-left: 700px;
+   margin-top: 5px;
+}
+.vid5
+{
+
+margin-left: 15px;
+   margin-top: 5px;
+}
+.vid6
+{
+   margin-left: 700px;
+   margin-top: 5px;
+}
+.podval
+{
+   margin-top: 200px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   background-color: rgb(0, 189, 0);
+   text-align: center;
+}
+.txt2
+{
+   text-align: center;
+   line-height: 50px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+   font-size: 25px;
+   
+   margin-top: 0.5em; 
+   margin-bottom: 1em; 
+}
+.st4, .st5, .st6, .st7
+{
+   font-size: 50px;
+   text-align: center;
+   padding-left: 850px;
+}
+
+.ph5
+{
+ margin-left: 15px;
+ width: 400px;
+height: 267px;
+}
+.ph6
+{
+margin-left: 900px;
+width: 400px;
+height: 267px;
+}
+.ph7
+{
+   padding-left: 650px;
+   width: 400px;
+   height: 267px;
+
+}
+.text3
+{
+    text-align: center;
+    line-height: 50px;
+    font-size: large;
+        font-family: "Playfair Display", serif;
+        font-optical-sizing: auto;
+        font-weight: bold;
+        font-style: oblique;
+        margin-top: 0.5em; 
+        margin-bottom: 1em; 
+        font-size: 25px;
+      
+}   
+.card {
+    transform-style: preserve-3d;
+    min-height: 250;
+    min-width: 330;
+    border-radius: 10px;
+    padding: 0rem 5rem;
+    box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2), 0px 0px 50px rgba(0, 0, 0, 0.2);
+}
+html {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .easy, img,
+  .vc, img,
+  .emp, img
+  {
+   border-radius: 100px; /* Радиус скругления */
+    border-left: 150px;
+    border: 50%;
+    display:flex;
+  align-items:center;
+  justify-content: center;
+  
+  
+  
+   }
+  
+   
+      .easy2
+   {
+      text-align: center;
+   line-height: 50px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+   margin-top: 0.5em; 
+   margin-bottom: 1em; 
+   color: white;
+   }
+.vc
+{
+   border-radius: 100px; /* Радиус скругления */
+    border-left: 150px;
+}
+.vc2
+{
+   text-align: center;
+   line-height: 50px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+   color: white;
+   
+   margin-top: 0.5em; 
+   margin-bottom: 1em; 
+}
+.emp
+{
+   border-radius: 100px; /* Радиус скругления */
+    border-left: 150px;
+}
+.emp2
+{
+   text-align: center;
+   line-height: 50px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+   font-size: 30px;
+   color: white;
+   
+   margin-top: 0.5em; 
+   margin-bottom: 1em; 
+}
